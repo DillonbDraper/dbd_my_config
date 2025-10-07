@@ -1,3 +1,6 @@
+-- ~/.wezterm.lua (on Linux/macOS)
+-- %USERPROFILE%/.wezterm.lua (on Windows)
+
 local wezterm = require 'wezterm'
 local config = {}
 
